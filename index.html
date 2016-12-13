@@ -1,47 +1,82 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Budget Gamers</title>
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-	</head>
-	<style>
-	<body>
-		body {
-    background-image: url("https://images7.alphacoders.com/594/thumb-1920-594320.jpg");
-    background-color: #cccccc;
-		}
-	</style>
-		<nav>
-			<center>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-			<li><a href="/cheapmechanicalkeyboards">Cheap MECHANICAL Keyboards</a></li>
-        		<li><a href="/300dollars.html">$300 PC Builds</a></li>
-			<li><a href="/400dollars.html">$400 PC Builds</a></li>
-    		</ul>
-			</center>
-		</nav>
-		<div class="container">
-    		<div class="blurb">
-			<center><style>
-				h1 {
-					padding: 1cm 2cm 1cm 2cm</style>
-				<h1>Welcome to Budget Gamers</h1></center>
-			<style>
-			p {
-				text-indent: 50px;
-			outline: #00FF00 thick;
-				 padding: 1cm 0cm 1cm 2cm;
-			</style>
-				<p>Hi, I'm Kaho Moon and I am a PC gamer on a tight budget. I have come across many budget PC builds when I was building my PC and have gathered up adequate knowledge in PC building and hope to be able to share some information with you. I will mainly focus on builds with dedicated graphic cards (so we will not depends on integrated graphics) unless there is no other options. In that case, I will share the best options you will have. <a href="/about">Read more about my life...</a></p>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:budgetpcbuilds@gmail.com">email</a></li>
-        		<li><a href="https://github.com/KahoMoon">github.com/KahoMoon</a></li>
-			</ul>
-		</footer>
-	</body>
+<title>W3.CSS Template</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<body>
+
+
+<!-- Header -->
+<header class="w3-display-container w3-content" style="max-width:1500px">
+  <img class="w3-image" src="/w3images/photographer.jpg" alt="Me" width="1500" height="600">
+  <div class="w3-display-middle w3-padding-xlarge w3-border w3-wide w3-text-light-grey w3-center">
+    <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">JANE DOE</h1>
+    <h5 class="w3-hide-large" style="white-space:nowrap">JANE DOE</h5>
+    <h3 class="w3-hide-medium w3-hide-small">PHOTOGRAPHER</h3>
+  </div>
+  
+  <!-- Navbar (placed at the bottom of the header image) -->
+  <ul class="w3-navbar w3-light-grey w3-round w3-display-bottommiddle w3-hide-small" style="bottom:-16px">
+    <li><a href="#">Home</a></li>
+    <li><a href="#portfolio">Portfolio</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</header>
+
+
+<!-- Navbar on small screens -->
+<ul class="w3-navbar w3-light-grey w3-hide-large w3-hide-medium">
+  <li><a href="#">Home</a></li>
+  <li><a href="#portfolio">Portfolio</a></li>
+  <li><a href="#contact">Contact</a></li>
+</ul>
+
+
+<!-- Page content -->
+<div class="w3-content w3-padding-xlarge w3-margin-top" id="portfolio">
+
+
+  <!-- Images (Portfolio) -->
+  <img src="/w3images/ocean.jpg" alt="Ocean" class="w3-image" width="1000" height="500">
+  <img src="/w3images/ocean2.jpg" alt="Ocean II" class="w3-image w3-margin-top" width="1000" height="500">
+  <img src="/w3images/falls2.jpg" alt="Falls" class="w3-image w3-margin-top" width="1000" height="500">
+  <img src="/w3images/mountainskies.jpg" alt="Skies" class="w3-image w3-margin-top" width="1000" height="500">
+  <img src="/w3images/mountains2.jpg" alt="Mountains" class="w3-image w3-margin-top" width="1000" height="500">
+
+
+  <!-- Contact -->
+  <div class="w3-light-grey w3-padding-xlarge w3-padding-32 w3-margin-top" id="contact">
+    <h3 class="w3-center">Contact</h3>
+    <hr>
+    <p>Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sed tellus.</p>
+
+
+    <form action="form.asp" target="_blank">
+      <div class="w3-group">
+        <label>Name</label>
+        <input class="w3-input w3-border" type="text" required name="Name">
+      </div>
+      <div class="w3-group">
+        <label>Email</label>
+        <input class="w3-input w3-border" type="text" required name="Email">
+      </div>
+      <div class="w3-group">
+        <label>Message</label>
+        <input class="w3-input w3-border" required name="Message">
+      </div>
+      <button type="submit" class="w3-btn w3-btn-block w3-padding-12 w3-dark-grey">Send</button>
+    </form><br>
+    <p>Powered by <a href="http://www.w3schools.com/w3css/default.asp" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+
+
+  </div>
+
+
+<!-- End page content -->
+</div>
+
+
+</body>
+</html>
+
 </html>
