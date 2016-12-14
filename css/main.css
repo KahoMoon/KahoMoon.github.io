@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-image: url("http://www.hutui6.com/data/out/83/68485587-gamers-wallpapers.jpg")
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -11,6 +12,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    text-align: center;
 }
 a {
     text-decoration: none;
@@ -22,11 +24,16 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-align: center;
+	padding: 0cm 2cm 0cm 2cm}
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    text-indent: 50px;
+	padding: 0cm 2cm 0cm 2cm;
+	border: 5px solid white;
 }
 footer {
     border-top: 1px solid #d5d5d5;
