@@ -1,7 +1,8 @@
 body {
+	background-color: lightblue;
     margin: 60px auto;
-    width: 70%;
-    background-image: url("http://7-themes.com/data_images/collection/4/4452289-dark-wallpapers.jpg")
+    width: 100%;
+    background-image: url('http://7-themes.com/data_images/collection/4/4452289-dark-wallpapers.jpg')
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
