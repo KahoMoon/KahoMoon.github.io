@@ -29,7 +29,8 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     text-align: center;
-	padding: 0cm 2cm 0cm 2cm}
+	padding: 0cm 2cm 0cm 2cm;
+		border: 5px solid white;
 }
 p {
     text-indent: 50px;
