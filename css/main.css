@@ -30,6 +30,12 @@ h1 {
     text-align: center;
 	padding: 0cm 2cm 0cm 2cm}
 }
+h2 {
+	font-weight: bold;
+	font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-align: center;
+}
 p {
 	text-indent: 50px;
     font-size: 3em;
