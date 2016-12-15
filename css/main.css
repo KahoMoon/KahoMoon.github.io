@@ -32,12 +32,11 @@ h1 {
 	padding: 0cm 2cm 0cm 2cm}
 }
 p {
-	text-indent: 50px;
+    text-indent: 50px;
     font-size: 3em;
     line-height: 2em;
     color: #333;
 	padding: 0cm 2cm 0cm 2cm;
-	border: 5px solid white;
 	font-family:'Arial Black'
 }
 footer {
