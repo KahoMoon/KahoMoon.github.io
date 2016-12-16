@@ -17,7 +17,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-	color: white;
+	color: black;
 }
 a {
     text-decoration: none;
@@ -35,6 +35,7 @@ h1 {
 }
 h2 {
 	font-family:'Arial Black'
+		color: black;
 }
 p {
     text-indent: 50px;
@@ -48,18 +49,18 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-	color: #40E0D0;
+	color: black;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
-	color: white;
+	color: black;
 }
 
 ul.posts li {
     list-style: none;
-	color: white;
+	color: black;
 }
 div.aboutparagraph {
 	padding: 0cm 0cm 0cm 10cm;
