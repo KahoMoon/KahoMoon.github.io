@@ -4,7 +4,7 @@ body {
     margin: 60px auto;
     width: 50%;
 	height: 70%;
-	color: white;
+	color: black;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -12,11 +12,12 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     text-align: center;
-	color: blue;
+	color: black;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+	color: black
 }
 a {
     text-decoration: none;
@@ -44,7 +45,7 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-	color: blue;
+	color: black;
 }
 
 ul.posts { 
