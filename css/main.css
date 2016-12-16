@@ -36,6 +36,7 @@ h1 {
 h2 {
 	font-family:'Arial Black'
 		color: black;
+	padding: 0cm 5cm 0cm 0cm;
 }
 p {
     text-indent: 50px;
