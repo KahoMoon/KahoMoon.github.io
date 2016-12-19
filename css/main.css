@@ -44,8 +44,10 @@ p {
     line-height: 2em;
     color: #333;
 	padding: 0cm 2cm 0cm 2cm;
-	font-family:'Arial Black'
 		text-align: center;
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #555753; 
 }
 footer {
     border-top: 1px solid #d5d5d5;
