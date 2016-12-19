@@ -42,12 +42,12 @@ h2 {
 }
 p {
     text-indent: 50px;
-    font-size: 5em;
+    font-size: 25em;
 	padding: 0cm 2cm 0cm 2cm;
 		text-align: center;
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
-	color: #555753; 
+	color: white;
 }
 footer {
     border-top: 1px solid #d5d5d5;
