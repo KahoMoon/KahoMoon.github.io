@@ -34,6 +34,13 @@ h1 {
 	border: 5px solid white;
 	padding: 0cm 3cm 0cm 3cm;
 }
+h2 {
+ font-size: 3em;
+    font-family:'Courier New', 'Arial', 'Sans-Serif';
+    text-align: center;
+	border: 5px solid white;
+	padding: 0cm 3cm 0cm 3cm;
+}
 p {
     text-indent: 50px;
     font-size: 25em;
