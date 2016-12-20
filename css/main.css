@@ -9,6 +9,7 @@ body {
 }
 table {
 	text-align:center;
+	border: 1.5px solid white;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
