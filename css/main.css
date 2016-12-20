@@ -34,12 +34,6 @@ h1 {
 	border: 5px solid white;
 	padding: 0cm 3cm 0cm 3cm;
 }
-h2 {
-	font-family:'Arial Black'
-		color: black;
-	padding: 0cm 5cm 0cm 0cm;
-	text-align: center;
-}
 p {
     text-indent: 50px;
     font-size: 25em;
