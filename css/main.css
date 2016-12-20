@@ -80,4 +80,11 @@ ul.posts li {
   left: 50%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
-	
+}
+.300background {
+	 background-image: url("http://www.intrawallpaper.com/static/images/cool-background.jpg");
+    background-repeat: no-repeat;
+    margin: 60px auto;
+    width: 50%;
+	height: 70%;
+	background-size:cover
