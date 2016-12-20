@@ -71,6 +71,8 @@ ul.posts li {
 }
 .aboutbackground {
 	background-image: url("http://www.rocketchainsaw.com.au/wp-content/uploads/2014/02/The_Witcher_3_Wild_Hunt_View_From_The_Cliff.png");
+	 background-repeat: no-repeat;
+	background-size:cover
 }
 .centered {
   position: fixed;
@@ -78,4 +80,4 @@ ul.posts li {
   left: 50%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
-}
+	
