@@ -106,4 +106,5 @@ h3 {
 iframe {
 	width: 900px;
 	height: 400px;
+	overflow: scroll;
 }
