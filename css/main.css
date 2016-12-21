@@ -1,9 +1,9 @@
 body {
-	 background-image: url("http://freshwallpapers.info/uploads/posts/2016-03/10_the_witcher_3.jpg");
+	 background-image: url("https://images7.alphacoders.com/327/thumb-1920-327601.jpg");
     background-repeat: no-repeat;
     margin: 60px auto;
-    width: 50%;
-	height: 70%;
+    width: 100%;
+	height: 100%;
 	color: white;
 	background-size:cover
 }
@@ -95,8 +95,6 @@ ul.posts li {
 	background-size:cover
 }
 html {
-	width: 150px;
-    height: 150px;
 	overflow: scroll;
 }
 
