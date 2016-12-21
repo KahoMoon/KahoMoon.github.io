@@ -97,4 +97,8 @@ ul.posts li {
 html {
 	overflow: scroll;
 }
-
+iframe {
+	width="200";
+	height="200";
+	text-align: center;
+}
