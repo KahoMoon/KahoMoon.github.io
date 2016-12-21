@@ -93,3 +93,10 @@ ul.posts li {
     width: 50%;
 	height: 70%;
 	background-size:cover
+}
+html {
+	width: 150px;
+    height: 150px;
+	overflow: scroll;
+}
+
