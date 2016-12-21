@@ -94,7 +94,7 @@ ul.posts li {
 	background-size:cover
 }
 html {
-	overflow: scroll;
+	overflow: auto;
 }
 h3 {
 	text-align: center;
@@ -105,5 +105,5 @@ h3 {
 iframe {
 	width: 950px;
 	height: 250px;
-	overflow: scroll;
+	overflow: inherit;
 }
