@@ -8,8 +8,8 @@ body {
 	background-size:default
 }
 .300images {
-	width: 100px;
-	height: 100px;
+	width= "100px";
+	height= "100px";
 }
 	
 table {
