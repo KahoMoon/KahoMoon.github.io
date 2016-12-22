@@ -7,6 +7,11 @@ body {
 	color: white;
 	background-size:default
 }
+.300images {
+	width: 100px;
+	height: 100px;
+}
+	
 table {
 	text-align:center;
 	border: 2px solid white;
