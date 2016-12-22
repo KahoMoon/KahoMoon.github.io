@@ -12,6 +12,9 @@ table {
 	border: 2px solid white;
 
 }
+ul {
+	color: white;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
